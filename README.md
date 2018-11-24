@@ -1,3 +1,15 @@
+CSS Flexbox example with BEM 
+
+Purpose of the project is to learn Flexbox layout with BEM naming convention utilizing SASS
+
+## Studied resources
+
+- http://getbem.com/introduction/
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/ 
+- https://facebook.github.io/create-react-app/docs/adding-a-sass-stylesheet
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
